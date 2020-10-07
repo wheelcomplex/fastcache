@@ -1,4 +1,6 @@
-module github.com/VictoriaMetrics/fastcache
+module github.com/wheelcomplex/magicgate/fastcache
+
+go 1.16
 
 require (
 	github.com/allegro/bigcache v1.2.1-0.20190218064605-e24eb225f156
